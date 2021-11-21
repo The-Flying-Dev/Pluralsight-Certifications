@@ -1,7 +1,8 @@
 <h1>Pluralsight-Certifications</h1>
 <h2>Certificates obtained for completing Pluralsight courses</h2>
 <hr>
-
+<br />
+<h3>Course Links Below</h3>
 
 
 * [Integrating Payments with Ruby on Rails](https://app.pluralsight.com/library/courses/ruby-on-rails-integrating-payments/table-of-contents)
