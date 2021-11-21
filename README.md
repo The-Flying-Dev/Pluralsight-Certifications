@@ -12,3 +12,5 @@
 * [Adding a User Resource to a Rails Application](https://app.pluralsight.com/library/courses/adding-user-resource-rails-application/table-of-contents)
 * [Ruby on Rails: The Big Picture](https://app.pluralsight.com/library/courses/ruby-rails-big-picture/table-of-contents)
 * [Enhancing Web UIs with Parallax Scrolling](https://app.pluralsight.com/library/courses/parallax-scrolling-enhancing-web-uis/table-of-contents)
+* [JavaScript: Using JavaScript with HTML Documents (Interactive)](https://app.pluralsight.com/library/courses/javascript-javascript-html-documents/table-of-contents)
+* [JavaScript: Using Variables and Working with Numbers and Strings](https://app.pluralsight.com/library/courses/javascript-variables-working-numbers-strings/table-of-contents)
